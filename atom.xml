@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hojun</title>
+  <title>rice</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://github.com/rrrrrrrrrice/rrrrrrrrrice.github.io.git/</id>
   
   <author>
-    <name>hojun</name>
+    <name>rice</name>
     
   </author>
   
@@ -43,7 +43,7 @@
     <link href="https://github.com/rrrrrrrrrice/rrrrrrrrrice.github.io.git/2018/12/12/Hexo-Theme-Sakura/"/>
     <id>https://github.com/rrrrrrrrrice/rrrrrrrrrice.github.io.git/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
-    <updated>2020-03-16T10:41:30.000Z</updated>
+    <updated>2021-07-12T07:11:22.645Z</updated>
     
     <summary type="html">
     
